@@ -1,0 +1,23 @@
+
+    body
+    {
+        background-color: rgb(21, 16, 29);
+    }
+    .-form
+    {
+        margin-top: 75px;
+        font-weight:bolder;
+        background-color: rgb(4, 99, 122);
+        text-align: center;           
+        width: 50%;
+        margin-left: 350px;
+        border-radius: 100px;
+        height: 500px;
+    }
+    
+    .-form form
+    {
+        padding-top: 40px;
+        margin: 30px;
+        
+    }
